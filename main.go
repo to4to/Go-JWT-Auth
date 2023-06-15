@@ -1,7 +1,10 @@
 package main
+import(
+	"os"
 
+"github.com/gin-gonic/gin")
 
-void main(){
+func main(){
 
 
 
