@@ -9,9 +9,8 @@ import (
 
 	"github.com/joho/godotenv"
 	"go.mongodb.org/mongo-driver/mongo"
-	"go.mongodb.org/mongo-driver/mongo/options"
-	"golang.org/x/vuln/client"
-)
+	"go.mongodb.org/mongo-driver/mongo/options")
+	
 
 func DBinstance() *mongo.Client {
 
