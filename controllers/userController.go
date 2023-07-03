@@ -1,5 +1,7 @@
 package controllers
-
+import(
+	"github.com/to4to/Go-JWT-Auth/helper"
+)
 
 
 func HashPassword(){
